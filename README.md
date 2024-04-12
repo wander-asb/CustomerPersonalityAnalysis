@@ -1,7 +1,7 @@
 # Customer Personality Analysis
 
 <p align="center">
-  <img width="780" height="300" src="[https://www.jornalismo.ufv.br/cinecom/wp-content/uploads/2021/06/reality-show.jpg](https://miro.medium.com/v2/resize:fit:1200/0*VTBz1Op6jnk0_wZ4.jpg)">
+  <img width="780" height="300" src="[[https://www.jornalismo.ufv.br/cinecom/wp-content/uploads/2021/06/reality-show.jpg](https://miro.medium.com/v2/resize:fit:1200/0*VTBz1Op6jnk0_wZ4.jpg)](https://storage.googleapis.com/kaggle-datasets-images/1546318/2549419/519ae15c262818cdd94fa315325858aa/dataset-cover.png?t=2021-08-22-18-33-50)">
 </p>
 
 ## Storytelling:
