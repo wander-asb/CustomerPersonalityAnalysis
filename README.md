@@ -53,6 +53,9 @@ A análise de personalidade do cliente ajuda um negócio a modificar seu produto
   - NumCatalogPurchases: Number of purchases made using a catalogue
   - NumStorePurchases: Number of purchases made directly in stores
   - NumWebVisitsMonth: Number of visits to company’s website in the last month
+
+
+
  
 **História de Usuário: Análise de Desempenho de Clientes no Power BI**
 
