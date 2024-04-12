@@ -62,8 +62,9 @@ A análise de personalidade do cliente ajuda um negócio a modificar seu produto
 Como um analista de marketing da empresa de vinhos gourmet, desejo criar indicadores no Power BI para entender melhor o perfil e o comportamento dos nossos clientes, a fim de direcionar estratégias de marketing de forma mais eficaz e aumentar as vendas.
 
 **Objetivo:**
-- Desenvolver indicadores-chave de desempenho (KPIs) que nos ajudem a compreender o perfil e comportamento dos clientes.
 - Realizar tratamentos de dados para garantir a qualidade das análises.
+- Desenvolver indicadores-chave de desempenho (KPIs) que nos ajudem a compreender o perfil e comportamento dos clientes.
+
 
 **Indicadores a serem criados:**
 
